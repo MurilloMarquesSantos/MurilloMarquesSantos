@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ I am a begginner <br>📚 I'm currently learning Java and MySQL<br>🎯 Enrolled in analysis and system devlopment. 1st semester</p>
+<p align="left">✨ I am a begginner <br>📚 I'm currently learning Java and MySQL<br>🎯 Enrolled in analysis and system devlopment. 2nd semester</p>
 
 ###
 
