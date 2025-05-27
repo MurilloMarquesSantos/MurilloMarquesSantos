@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-  🎓 Computer Science student  <br>
+  🎓 Systems Analysis and Development student  <br>
   💻 Backend Developer passionate about software architecture and microservices  <br>
   🚀 Building projects with Spring Boot, OAuth2, JWT, RabbitMQ, AWS, design patterns, and Testcontainers for robust testing  <br>
   🧠 Always learning and looking for new challenges to grow as a developer  <br>
