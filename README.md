@@ -1,12 +1,21 @@
-<h2 align="left">Hi 👋! My name is Murillo and welcome to my GitHub! 👨‍🎓</h2>
+<h2 align="left">Hi 👋 Hi, I'm Murillo Marques!</h2>
+
+###
+
+<p align="left">
+  🎓 Computer Science student  <br>
+  💻 Backend Developer passionate about software architecture and microservices  <br>
+  🚀 Building projects with Spring Boot, OAuth2, JWT, RabbitMQ, AWS, design patterns, and Testcontainers for robust testing  <br>
+  🧠 Always learning and looking for new challenges to grow as a developer  <br>
+  🌎 English level: <a href="https://cert.efset.org/TxCvaV" target="_blank">C1 (Advanced)</a>
+</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MurilloMarquesSantos&locale=en&mode=weekly&theme=algolia&hide_border=false&border_radius=5&order=3" height="190" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MurilloMarquesSantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=algolia&hide_border=false&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MurilloMarquesSantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
@@ -16,7 +25,7 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
   <img width="16" />
@@ -25,6 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" height="40" alt="rabbitmq logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
+  <img width="16" />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
 </div>
 
 ###
