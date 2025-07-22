@@ -7,8 +7,9 @@
   💻 Backend Developer passionate about software architecture and microservices  <br>
   🚀 Building projects with Spring Boot, OAuth2, JWT, RabbitMQ, AWS, design patterns, and Testcontainers for robust testing  <br>
   🧠 Always learning and looking for new challenges to grow as a developer  <br>
-  ☁️ AWS Cloud Practitioner <a href="https://www.credly.com/badges/f762a3c3-7d4b-4e48-b664-ff4ed583f2d7/public_url">Certified</a> <br>
-  🌎 English level: <a href="https://cert.efset.org/TxCvaV" target="_blank">C1 (Advanced)</a>
+  ☁️ AWS Cloud Practitioner <a href="https://www.credly.com/badges/f762a3c3-7d4b-4e48-b664-ff4ed583f2d7/public_url" target="_blank">Certified</a> <br>
+  🌎 English level: <a href="https://cert.efset.org/TxCvaV" target="_blank">C1 (Advanced)</a> <br>
+  🧑‍💻 Take a look at my <a href="https://murillomarquessantos.github.io/Portifolio/" target="_blank">Portifolio</a>
 </p>
 
 ###
